@@ -111,7 +111,7 @@
   /* —— Footer —— */
 
   .bottombanner{
-     width: 420px;
+     width: 360px;
     filter: drop-shadow(0 0 8px var(--white-fade));
     margin-bottom: 0.5rem;
 
@@ -146,4 +146,5 @@
       height: 56px;
     }
   }
+
   
